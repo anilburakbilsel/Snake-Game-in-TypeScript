@@ -4,3 +4,5 @@ I am making a snake game in TypeScript for fun. TypeScript seems a pretty nice l
 
 I am also planning to use TypeScript for JavaScript projects as well!
 
+TypeScript seems pretty fun!
+
