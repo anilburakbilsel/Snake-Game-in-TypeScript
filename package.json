@@ -1,0 +1,19 @@
+{
+    "name": "snake",
+    "version": "1.0.0",
+    "description": "basic snake game written in Typescript",
+    "main": "src/index.ts",
+    "scripts": {
+      "build": "tsc && rollup -c && node-sass --output-style compressed style.scss > build/style.css && echo 'Build Done.'",
+      "start": "live-server . --watch=build",
+      "lint": "find src -type f -name '*.ts' | xargs tslint"
+    },
+    "dependencies": {
+      "live-server": "^1.0.0",
+      "node-sass": "^4.6.0",
+      "rollup": "^0.51.2",
+      "tslint": "^5.8.0",
+      "typescript": "^2.6.1"
+    }
+  }
+  
