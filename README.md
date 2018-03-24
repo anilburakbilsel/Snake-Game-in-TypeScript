@@ -24,3 +24,9 @@ TypeScript seems pretty fun!
  - run `npm install` to get all dependencies
  - run `npm run build` to compile the app
  - run `npm start` to get the game running on your browser
+
+
+
+
+ ## Finally
+This project should be working fine in your local machine. Just clone this repo to your machine, and then follow the instructions in the Development header. 
