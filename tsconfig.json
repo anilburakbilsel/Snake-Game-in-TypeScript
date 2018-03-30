@@ -1,5 +1,5 @@
 // https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
-
+// https://code.visualstudio.com/docs/editor/tasks#vscode
 {
     "compilerOptions": {
         "outDir": "output",
