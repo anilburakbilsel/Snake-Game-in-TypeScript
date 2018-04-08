@@ -30,3 +30,5 @@ TypeScript seems pretty fun!
 
  ## Finally
 This project should be working fine in your local machine. Just clone this repo to your machine, and then follow the instructions in the Development header. 
+
+Please contact to me if you have any questions regarding to this project or TypeScript : abbilsel@gmail.com
